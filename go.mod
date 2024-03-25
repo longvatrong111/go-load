@@ -1,0 +1,1 @@
+module gihub.com/longvatrong111/go-load
